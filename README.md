@@ -1,2 +1,2 @@
 My first readme
-Wow what a day!
+My next read
